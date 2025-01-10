@@ -2,7 +2,7 @@
   <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
     <div class="flex h-16 items-center justify-between">
       <div class="flex-1 md:flex md:items-center md:gap-12">
-        <a class="block text-teal-600" href="index.php">
+        <a class="block text-blue-500" href="index.php">
           <span class="sr-only">Home</span>
           <img src="assets/favicon.png" class="h-16" alt="">
         </a>
@@ -40,7 +40,7 @@
         <div class="flex items-center gap-4">
           <div class="sm:flex sm:gap-4">
             <a
-              class="rounded-md bg-teal-600 px-5 py-2.5 text-sm font-medium text-white shadow"
+              class="rounded-md bg-blue-500 px-5 py-2.5 text-sm font-medium text-white shadow"
               href="loginPage.php"
             >
               Login
@@ -48,7 +48,7 @@
 
             <div class="hidden sm:flex">
               <a
-                class="rounded-md bg-gray-100 px-5 py-2.5 text-sm font-medium text-teal-600"
+                class="rounded-md bg-gray-100 px-5 py-2.5 text-sm font-medium text-blue-500"
                 href="#"
               >
                 Register
